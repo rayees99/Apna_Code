@@ -1,2 +1,4 @@
 # Apna_Code
-this is for own codding skills
+this is for my first github repository
+Author- Rayees Alam
+
